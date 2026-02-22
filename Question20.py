@@ -1,5 +1,5 @@
 import math
-
+#Number System Functions
 def factorial():
     n=int(input("Enter a number:"))
     fact=1
@@ -130,4 +130,5 @@ def math_menu():
         
         
     
+
 math_menu()
